@@ -1,0 +1,2 @@
+Z racji, że na codzień używam JIRA do zapisywania swojej pracy i czasu, zapoznałem się powierzchownie z REST API dzięki któremu stworzyłem skrypt do szybkiego tworzenia zgłoszenia, i przypisania go do siebie.
+W przyszłości jeszcze dodam wpisywanie czasu do istniejących już zgłoszeń :) Powiem szczerze przydatne na laptopie gdzie w biegu szybciej jest odpalić ten skrypt niż wejść do przeglądarki i klikać po kolei na touchpadzie.
